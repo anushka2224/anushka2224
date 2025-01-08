@@ -117,7 +117,7 @@ Tech Stack: HTML, CSS, JavaScript.
 
 📧 Email: anushkatripathi2224@gmail.com
 
-🖤 GitHub: github.com/AnushkaKumari
+🖤 GitHub: https://github.com/anushka2224
 
 
 
